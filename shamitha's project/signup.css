@@ -1,0 +1,70 @@
+.signuppage
+{
+    margin-left: 25%;
+    margin-top: 5%;
+    text-align: center;
+    font-family: initial;
+    border-style:solid ;
+    border-color: black;
+    width: 50%;
+    height:500px;
+    border-width: 10px;
+    border-radius: 50px;
+    
+}
+.signup
+{
+    font-size: 55px;
+    color:black;
+    font-family: initial;
+     padding-bottom: 20px;
+
+}
+.mail,.name,.password,.cpassword
+{
+    font-size: 26px;
+    font-family: initial;
+    color: black;
+    font-weight: 14px;
+    
+}
+.cpassword
+{
+    padding-bottom: 15px;
+}
+.submit
+{
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 120px;
+    background-color:black
+    
+}
+.img
+{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.login
+{
+    color: black;
+    font-size: 20px;
+    padding-left: 29px;
+    font-family: initial;
+
+}
+.textbox
+{
+    border-radius: 10px;
+}
+.submit:hover
+{
+    background-color: rgb(153, 194, 40);
+    color: white;
+}
+.login:hover
+{
+     color: white;
+}

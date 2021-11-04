@@ -1,0 +1,41 @@
+.header
+{
+    text-decoration:solid;
+    font-size:26px ;
+    padding-bottom: 20px;
+    text-decoration: underline;
+    font-family:initial;
+    text-size-adjust: 20px;
+    text-align: left;
+    
+
+}
+.resumeheader
+{
+    text-align: center;
+    font-weight: 800;
+    text-decoration: solid;
+    font-size:45px;
+    font-family:initial
+}
+.personalDetails
+{
+    font-family: initial;
+}
+.head
+{
+  font-family:initial ;
+  font-size: 20PX;
+}
+.mainpage
+{
+    border-style: double;
+    border-width: 9px;
+}
+.button
+{
+    margin-left: 50%;
+    margin-bottom: 15px;
+    font-family: initial;
+    font-size: 29px;
+}
